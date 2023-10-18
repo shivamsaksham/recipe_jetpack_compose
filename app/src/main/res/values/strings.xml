@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recipe</string>
+    <string name="home_greeting">Get Cooking Today!</string>
+    <string name="searchLabel">Search recipes</string>
+</resources>
